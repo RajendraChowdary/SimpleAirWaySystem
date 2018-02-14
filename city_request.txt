@@ -1,0 +1,7 @@
+Paris		  NewYork
+Dubai		  Tokyo
+NewYork	  	  Singapore
+Paris		  Tokyo
+Paris		  Delhi
+Bangkok	      Istanbul
+Bangkok	Paris

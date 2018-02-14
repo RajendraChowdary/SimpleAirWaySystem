@@ -1,0 +1,9 @@
+Bangkok	      Istanbul
+London		  NewYork	
+Paris		  NewYork
+Dubai		  Tokyo
+NewYork	 	  Singapore	
+Singapore     Dubai	
+KualaLumpur	
+Istanbul	
+Tokyo         Paris
